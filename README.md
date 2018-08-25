@@ -1,4 +1,5 @@
 # friend-finder
+click this URL to get the game:
 
 https://friend-finder55.herokuapp.com/
 
